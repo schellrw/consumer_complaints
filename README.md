@@ -8,7 +8,7 @@ nb_00a) Data preparation for validation dataset.
 
 nb_00b) Data preparation for test dataset.
 
-nb_01) Featuring: NLP with TfidfVectorizer from sklearn, product classification with several classification models (including feature-engineered variables from EDA), hyperparameter optimization with Optuna, and final ensemble model.
+nb_01) NLP with TfidfVectorizer from sklearn, product classification with several classification models (including feature-engineered variables from EDA), hyperparameter optimization with Optuna, and final ensemble model.
 
 nb_02) NLP with Gensim's Doc2Vec embedded vectors and product classification with several classification models.
 
