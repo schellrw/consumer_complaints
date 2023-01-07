@@ -2,10 +2,12 @@
 NLP with various methodologies using consumer_complaints kaggle dataset
 url: https://www.kaggle.com/datasets/kaggle/us-consumer-finance-complaints
 
-00) EDA with pandas profiling report, data munging, and feature engineering.
+NB_00) EDA with pandas profiling report, data munging, and feature engineering.
 
-01) NLP with industry standard TfidfVectorizer from sklearn and product classification with several classifiers.
+NB_01a) NLP with TfidfVectorizer from sklearn and product classification with several classification models - WITHOUT feature-engineered variables from EDA.
 
-02) NLP with Gensim's Doc2Vec embedded vectors and product classification with several classifiers.
+NB_01b) NLP with TfidfVectorizer from sklearn and product classification with several classification models - WITH feature-engineered variables from EDA (much better model evaluation metrics).
 
-03) NLP with simpleTransformers classification model and GPU acceleration.
+NB_02) NLP with Gensim's Doc2Vec embedded vectors and product classification with several classifiers.
+
+NB_03) NLP with simpleTransformers classification model and GPU acceleration.
