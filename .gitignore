@@ -1,6 +1,12 @@
-# folder to ignore
+# folders to ignore
 old
 old/*
+cache_dir
+cache_dir/*
+outputs
+outputs/*
+runs
+runs/*
 
 
 # # Byte-compiled / optimized / DLL files
