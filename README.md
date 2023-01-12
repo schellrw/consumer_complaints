@@ -12,4 +12,4 @@ url: https://www.kaggle.com/datasets/kaggle/us-consumer-finance-complaints
 
 02: NLP with Gensim's Doc2Vec embedded vectors and product classification with several classification models.
 
-03: NLP with simpleTransformers multi-classification model and GPU acceleration.  LLMs evaluated: bert-base-uncased.
+03: NLP with simpleTransformers multi-classification model and GPU acceleration.  LLMs evaluated: bert-base-uncased and bert-large-uncased.
